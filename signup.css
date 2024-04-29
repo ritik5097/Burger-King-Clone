@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.signup-menu-1{
+    background-color: transparent;
+    height: 695px;
+    width: 100%;
+}
+.signup-menu-1-A{
+    background-color: transparent;
+    width: 50%;
+    height: 600px;
+    margin: auto;
+    position: relative;
+    top: 60px;
+}
+.signup-menu-1-A-1A-main{
+    background-color: transparent;
+    width: 50%;
+    margin: auto;
+    height: 570px;
+    position: relative;
+    top: 20px;
+}
+.signup-menu-1-A-1A-main-A-A{
+    width: 292px;
+    height:86px ;
+    background-color: transparent;
+    margin: auto;
+}
+.signup-menu-1-A-1A-main-A{
+    width: 292px;
+    height: 50px;
+    
+    line-height: 20px;
+
+}
+.signup-menu-1-A-1A-main-A img{
+    width: 260px;
+    height: 65px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.signup-menu-1-A-1A-main-B{
+    width: 292px;
+    height: 20px;
+}
+.signup-menu-1-A-1A-main-B p{
+    color: #502314;
+    font-size:18px ;
+    font-family:sans-serif ;
+width: 60%;
+margin: auto;
+position: relative;
+left: 15px;
+bottom: 2px;
+}
+.signup-menu-1-A-1A-main-A-B{
+    width: 292px;
+    height:46px ;
+ 
+    margin: auto;
+}
+.signup-menu-1-A-1A-main-A-C{
+    width: 292px;
+    height:50px ;
+    
+    margin: auto;
+}
+.signup-menu-1-A-1A-main-A button{
+    width: 292px;
+    border-radius: 25px;
+    height: 41.6px;
+    color: #502314;
+    background-color: #ffffff;
+    outline: none;
+    border: 1px solid #502314;
+    position: relative;
+    top: 2px;
+    font-size: 16px;
+    font-family: sans-serif;
+    background-color: #ffffff;
+    outline: none;
+}
+.signup-menu-1-A-1A-main-A button:hover{
+    background-color: #d624005e;
+}
+.signup-menu-1-A-1A-main-A-D{
+    width: 292px;
+    height:70px ;
+    
+    margin: auto;
+}
+.signup-menu-1-A-1A-main-BA{
+    
+    width: 292px;
+    position: relative;
+    top: 25px;
+}
+.signup-menu-1-A-1A-main-BA p{
+    font-size: 16px;
+    width: 100px;
+    font-family: sans-serif;
+    left: 140px;
+    position: relative;
+}
+.signup-menu-1-A-1A-main-A-E{
+    width: 292px;
+    height:90px ;
+    
+    margin: auto;
+}
+.signup-menu-1-A-email-form-main{
+    
+    width: 100%;
+    margin: auto;
+    height: 90px;
+}
+.signup-email-label label{
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #502314;
+    font-weight: bold;
+}
+.signup-email-label sup{
+    color: red;
+    font-weight: bold;
+    font-size: 16px;
+}
+.signup-email-input-1{
+    position: relative;
+    top: 15px;
+}
+.signup-email-input-1 input{
+    width: 250px;
+    height: 41.6px;
+    font-family: serif;
+    font-size: 16px;
+    color: #502314;
+    font-weight: bold;
+    background-color: #ffffff;
+    outline: none;
+    border-radius:5px ;
+    padding: 0px 20px;
+    
+}
+.signup-menu-1-A-1A-main-A-F{
+    width: 292px;
+    height:90px ;
+    
+    margin: auto;
+}
+.btn-signup{
+    height: 50px;
+    width: 292px;
+    position: relative;
+    top: 30px;
+}
+.btn-signup button{
+    width: 292px;
+    height: 41.6px;
+    border-radius: 20px;
+    padding: 8px 16px;
+    font-size: 16px;
+    font-family: sans-serif;
+    color: #ffffff;
+    background-color: #D62300;
+    border: none;
+    outline: none;
+    
+   
+}
+.btn-signup button:hover{
+    background-color: #d62400d2;
+}
+.dignbtn{
+    width: 150px;
+    height: 24px;
+    margin: auto;
+    position: relative;
+    top: 2.5px;
+    
+    
+}
